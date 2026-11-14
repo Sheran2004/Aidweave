@@ -41,5 +41,5 @@ databases:
   - name: aidweave-db
     databaseName: aidweave
     user: aidweave
-    plan: starter
+    plan: free
     region: singapore

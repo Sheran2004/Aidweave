@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+aidweave.db
+.env
+.venv/
+venv/
+.DS_Store

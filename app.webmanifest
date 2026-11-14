@@ -1,0 +1,14 @@
+{
+  "id": "/",
+  "name": "Aidweave — Community help",
+  "short_name": "Aidweave",
+  "description": "Ask for support or offer a hand in your community.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f5f0",
+  "theme_color": "#20382e",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
